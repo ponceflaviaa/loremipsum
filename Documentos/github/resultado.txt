@@ -1,0 +1,6 @@
+loremipsum-1.txt tiene 10 líneas
+loremipsum-2.txt tiene 9 líneas
+loremipsum-3.txt tiene 17 líneas
+loremipsum-4.txt tiene 15 líneas
+loremipsum-5.txt tiene 11 líneas
+
